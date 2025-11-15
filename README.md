@@ -1,6 +1,5 @@
-I want you To make a better version of the script that I am about to give you. I want you to make a better UI and new features that are really strong a well developed, also I want you to remove verification system there is no need for that. Now make a better version of this. // ==UserScript==
-// @name         Shell Shockers Aimbot & ESP: StateFarm Client V3 - Bloom, Chat, Botting, Unban & More, shellshock.io
-// @description  Shell Shockers Aimbot & ESP of the highest level. Best shellshock.io menu in 2025 with NO ADS! Many cheats such as Aimbot, PlayerESP, AmmoESP, Chams, Nametags, Join/Leave alerts, Chat Filter Bypass, AntiAFK, FOV Slider, Zooming, Player Stats, Auto Reload, Auto Unban and many more whilst having unsurpassed customisation options such as binding to any key, easily editable color scheme and themes - all on the fly!
+// ==UserScript==
+// @name         Just a Script that needs to be improved
 // @author       Hydroflame521, enbyte, notfood, 1ust, OakSwingZZZ, Seq and de_Neuublue
 // @namespace    https://github.com/Hydroflame522/StateFarmClient/
 // @supportURL   https://github.com/Hydroflame522/StateFarmClient/-/issues/
